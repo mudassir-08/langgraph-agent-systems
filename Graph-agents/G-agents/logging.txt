@@ -1,0 +1,12 @@
+Your Conversation:
+You: Hi
+AI: Hello! How can I help you today?
+You: my name is aska
+AI: Nice to meet you, Aska! How can I assist you today?
+You: what is my name?
+AI: Your name is Aska.
+You: what is your name?
+AI: I’m ChatGPT, your AI assistant.
+You: oh niice
+AI: Glad to hear it! Anything you’d like to chat about or need help with?
+End of Conversation.
