@@ -63,4 +63,4 @@ Graph-agents/
 
 ## License
 
-No license is currently specified. Add a license before inviting reuse or contributions.
+This project is licensed under the [MIT License](./LICENSE).
